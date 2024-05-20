@@ -4,90 +4,103 @@
         "price": "",
         "release_date": "22-Aug-12",
         "rating": 86.90,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1715292548"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1715292548",
+        "page_url": "app/1.html"
     },
     "Dota 2": {
         "last_24_hours": 789233,
         "price": "",
         "release_date": "10-Jul-13",
         "rating": 81.47,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_sm_120.jpg?t=1715806025"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_sm_120.jpg?t=1715806025",
+        "page_url": "app/2.html"
     },
     "PUBG: BATTLEGROUNDS": {
         "last_24_hours": 648246,
         "price": "",
         "release_date": "21-Dec-17",
         "rating": 58.31,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1715649891"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1715649891",
+        "page_url": "app/3.html"
     },
     "Apex Legends": {
         "last_24_hours": 363435,
         "price": "",
         "release_date": "05-Nov-20",
         "rating": 77.43,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1716132960"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1716132960",
+        "page_url": "app/4.html"
     },
     "Grand Theft Auto V": {
         "last_24_hours": 151836,
         "price": "₩44,000",
         "release_date": "14-Apr-15",
         "rating": 86.33,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1715964028"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1715964028",
+        "page_url": "app/5.html"
     },
     "Rust": {
         "last_24_hours": 126068,
         "price": "₩46,000",
         "release_date": "09-Feb-18",
         "rating": 86.52,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_sm_120.jpg?t=1715959087"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_sm_120.jpg?t=1715959087",
+        "page_url": "app/6.html"
     },
     "Fallout 4": {
         "last_24_hours": 113436,
         "price": "₩22,000",
         "release_date": "10-Nov-15",
         "rating": 81.80,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_sm_120.jpg?t=1716090041"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_sm_120.jpg?t=1716090041",
+        "page_url": "app/7.html"
     },
     "Stardew Valley": {
         "last_24_hours": 129287,
         "price": "₩16,000",
         "release_date": "27-Feb-16",
         "rating": 97.43,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg?t=1716096086"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg?t=1716096086",
+        "page_url": "app/8.html"
     },
     "Call of Duty®": {
         "last_24_hours": 104409,
         "price": "₩84,500",
         "release_date": "28-Oct-22",
         "rating": 57.95,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_sm_120.jpg?t=1715904712"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_sm_120.jpg?t=1715904712",
+        "page_url": "app/9.html"
     },
     "Baldur's Gate 3": {
         "last_24_hours": 95423,
         "price": "₩66,000",
         "release_date": "04-Aug-23",
         "rating": 95.93,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_sm_120.jpg?t=1715954074"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_sm_120.jpg?t=1715954074",
+        "page_url": "app/10.html"
     },
     "Destiny 2": {
         "last_24_hours": 95818,
         "price": "",
         "release_date": "01-Oct-19",
         "rating": 79.82,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1716001204"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1716001204",
+        "page_url": "app/11.html"
     },
     "Lost Ark": {
         "last_24_hours": 88683,
         "price": "",
         "release_date": "11-Feb-22",
         "rating": 70.91,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1599340/capsule_sm_120.jpg?t=1715875510"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1599340/capsule_sm_120.jpg?t=1715875510",
+        "page_url": "app/12.html"
     },
     "HELLDIVERS™ 2": {
         "last_24_hours": 95194,
         "price": "₩44,800",
         "release_date": "08-Feb-24",
         "rating": 72.46,
-        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/capsule_sm_120.jpg?t=1716031587"
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/capsule_sm_120.jpg?t=1716031587",
+        "page_url": "app/13.html"
     }
 }
