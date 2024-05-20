@@ -1,72 +1,93 @@
 {
     "Counter-Strike 2": {
-        "current_players": 1018220,
-        "peak_players": 1486955,
+        "last_24_hours": 1486955,
+        "price": "",
+        "release_date": "22-Aug-12",
+        "rating": 86.90,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1715292548"
     },
     "Dota 2": {
-        "current_players": 653825,
-        "peak_players": 789233,
+        "last_24_hours": 789233,
+        "price": "",
+        "release_date": "10-Jul-13",
+        "rating": 81.47,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_sm_120.jpg?t=1715806025"
     },
     "PUBG: BATTLEGROUNDS": {
-        "current_players": 231330,
-        "peak_players": 648246,
+        "last_24_hours": 648246,
+        "price": "",
+        "release_date": "21-Dec-17",
+        "rating": 58.31,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1715649891"
     },
-    "Source SDK Base 2007": {
-        "current_players": 209256,
-        "peak_players": 209256,
-        "image_url": "https://steamdb.info/static/img/capsules/218.jpg"
-    },
     "Apex Legends": {
-        "current_players": 137093,
-        "peak_players": 363435,
+        "last_24_hours": 363435,
+        "price": "",
+        "release_date": "05-Nov-20",
+        "rating": 77.43,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1716132960"
     },
     "Grand Theft Auto V": {
-        "current_players": 126427,
-        "peak_players": 151836,
+        "last_24_hours": 151836,
+        "price": "₩44,000",
+        "release_date": "14-Apr-15",
+        "rating": 86.33,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1715964028"
     },
     "Rust": {
-        "current_players": 115238,
-        "peak_players": 126068,
+        "last_24_hours": 126068,
+        "price": "₩46,000",
+        "release_date": "09-Feb-18",
+        "rating": 86.52,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_sm_120.jpg?t=1715959087"
     },
     "Fallout 4": {
-        "current_players": 113436,
-        "peak_players": 113436,
+        "last_24_hours": 113436,
+        "price": "₩22,000",
+        "release_date": "10-Nov-15",
+        "rating": 81.80,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_sm_120.jpg?t=1716090041"
     },
     "Stardew Valley": {
-        "current_players": 106811,
-        "peak_players": 129287,
+        "last_24_hours": 129287,
+        "price": "₩16,000",
+        "release_date": "27-Feb-16",
+        "rating": 97.43,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg?t=1716096086"
     },
     "Call of Duty®": {
-        "current_players": 104409,
-        "peak_players": 104409,
+        "last_24_hours": 104409,
+        "price": "₩84,500",
+        "release_date": "28-Oct-22",
+        "rating": 57.95,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_sm_120.jpg?t=1715904712"
     },
     "Baldur's Gate 3": {
-        "current_players": 95423,
-        "peak_players": 95423,
+        "last_24_hours": 95423,
+        "price": "₩66,000",
+        "release_date": "04-Aug-23",
+        "rating": 95.93,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_sm_120.jpg?t=1715954074"
     },
     "Destiny 2": {
-        "current_players": 89777,
-        "peak_players": 95818,
+        "last_24_hours": 95818,
+        "price": "",
+        "release_date": "01-Oct-19",
+        "rating": 79.82,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1716001204"
     },
     "Lost Ark": {
-        "current_players": 88683,
-        "peak_players": 88683,
+        "last_24_hours": 88683,
+        "price": "",
+        "release_date": "11-Feb-22",
+        "rating": 70.91,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1599340/capsule_sm_120.jpg?t=1715875510"
     },
     "HELLDIVERS™ 2": {
-        "current_players": 86785,
-        "peak_players": 95194,
+        "last_24_hours": 95194,
+        "price": "₩44,800",
+        "release_date": "08-Feb-24",
+        "rating": 72.46,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/capsule_sm_120.jpg?t=1716031587"
     }
 }
