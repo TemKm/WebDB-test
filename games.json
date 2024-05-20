@@ -1,67 +1,72 @@
 {
     "Counter-Strike 2": {
-        "last_24_hours": 1486955,
-        "price": "",
+        "current_players": 1018220,
+        "peak_players": 1486955,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1715292548"
     },
     "Dota 2": {
-        "last_24_hours": 789233,
-        "price": "",
+        "current_players": 653825,
+        "peak_players": 789233,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_sm_120.jpg?t=1715806025"
     },
     "PUBG: BATTLEGROUNDS": {
-        "last_24_hours": 648246,
-        "price": "",
+        "current_players": 231330,
+        "peak_players": 648246,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1715649891"
     },
+    "Source SDK Base 2007": {
+        "current_players": 209256,
+        "peak_players": 209256,
+        "image_url": "https://steamdb.info/static/img/capsules/218.jpg"
+    },
     "Apex Legends": {
-        "last_24_hours": 363435,
-        "price": "",
+        "current_players": 137093,
+        "peak_players": 363435,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1716132960"
     },
     "Grand Theft Auto V": {
-        "last_24_hours": 151836,
-        "price": "₩44,000",
+        "current_players": 126427,
+        "peak_players": 151836,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1715964028"
     },
     "Rust": {
-        "last_24_hours": 126068,
-        "price": "₩46,000",
+        "current_players": 115238,
+        "peak_players": 126068,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_sm_120.jpg?t=1715959087"
     },
     "Fallout 4": {
-        "last_24_hours": 113436,
-        "price": "₩22,000",
+        "current_players": 113436,
+        "peak_players": 113436,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_sm_120.jpg?t=1716090041"
     },
     "Stardew Valley": {
-        "last_24_hours": 129287,
-        "price": "₩16,000",
+        "current_players": 106811,
+        "peak_players": 129287,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg?t=1716096086"
     },
     "Call of Duty®": {
-        "last_24_hours": 104409,
-        "price": "",
+        "current_players": 104409,
+        "peak_players": 104409,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_sm_120.jpg?t=1715904712"
     },
     "Baldur's Gate 3": {
-        "last_24_hours": 95423,
-        "price": "₩66,000",
+        "current_players": 95423,
+        "peak_players": 95423,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_sm_120.jpg?t=1715954074"
     },
     "Destiny 2": {
-        "last_24_hours": 95818,
-        "price": "",
+        "current_players": 89777,
+        "peak_players": 95818,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1716001204"
     },
     "Lost Ark": {
-        "last_24_hours": 88683,
-        "price": "",
+        "current_players": 88683,
+        "peak_players": 88683,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1599340/capsule_sm_120.jpg?t=1715875510"
     },
     "HELLDIVERS™ 2": {
-        "last_24_hours": 95194,
-        "price": "₩44,800",
+        "current_players": 86785,
+        "peak_players": 95194,
         "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/capsule_sm_120.jpg?t=1716031587"
     }
 }
